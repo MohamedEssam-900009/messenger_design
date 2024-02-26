@@ -1,16 +1,5 @@
-# messenger_design
+# Messenger Design
+This project is a messenger design created by Me. The project is hosted on GitHub and is designed to showcase a modern and user-friendly interface for a messaging application. The design includes features such as a chat window, message bubbles, user profiles, and a clean layout.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen Shot
+![Apple iPhone 11 Presentation](https://github.com/MohamedEssam-900009/messenger_design/assets/77198018/5ed73a98-4587-4ea8-8f1c-b517a3b693b6)

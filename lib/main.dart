@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Messenger Screen',
-      theme: ThemeData(useMaterial3: true),
+      theme: ThemeData(useMaterial3: false),
       home: const MessengerScreen(),
     );
   }
